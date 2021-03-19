@@ -8,4 +8,4 @@ Após abrir a tabela no excel para ver com que tipo de dados eu estava lidando e
 
 Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de alguns dados e a criação de algumas colunas pertinentes
 
-![](Images/3.png)
+
