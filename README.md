@@ -14,4 +14,4 @@ Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de 
 
 ![](Images/5.png)
 
-Pronto
+
