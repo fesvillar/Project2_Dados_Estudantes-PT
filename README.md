@@ -22,6 +22,10 @@ chegar a algumas concluõses:
 No gráfico "Students participation on Test preparation course" eu pude perceber que o número de alunos que não participavam do curso preparatório para as provas que a 
 escola oferecia era quase o dobro do número de alunos que participavam. 
 
+![](Images/5_2.png)
+
+Com isso em mente fiz o gráfico "Math, reading and writing average score based on Test preparation course completion" para descobrir se o fato dos alunos não participarem
+do curso preparatório teria influência direta em suas notas e percebi que havia sim uma relação, mostrando que em média os estudantes que participavam do curso preparatório tinham uma nota maior em todas as três matérias.
 
 
 
