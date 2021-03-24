@@ -16,7 +16,9 @@ Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de 
 
 Com os dados já tratados eu montei um dashboard querendo levantar uma análise sobre as notas dos alunos dessa escola, com base nos resultados encontrados eu pude 
 chegar a algumas concluõses:
+
 ![](Images/5_1.png)
+
 No gráfico "Students participation on Test preparation course" eu pude perceber que o número de alunos que não participavam do curso preparatório para as provas que a 
 escola oferecia era quase o dobro do número de alunos que participavam. 
 
