@@ -10,6 +10,7 @@ Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de 
 
 ![](Images/3.png)
 
+![](Images/4.png)
 
 Com os dados já tratados eu montei um dashboard querendo levantar uma análise sobre as notas dos alunos dessa escola, com base nos resultados encontrados eu pude 
 chegar a algumas concluõses:
