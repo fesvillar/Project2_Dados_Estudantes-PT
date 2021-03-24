@@ -35,14 +35,9 @@ tão pertinente montar uma estratégia ao redor disso
 
 ![](Images/5_4.png)
 
-Em "Students participation on test preparation course based on family income" pude perceber que não existia uma relação tão grande entre renda familiar e participação dos alunos, porém me fez questionar se a renda familiar poderia influenciar nas notas
+Em "Students participation on test preparation course based on family income" pude perceber que não existia uma relação tão grande entre renda familiar e a taxa de adesão dos alunos ao curso preparatório.
 
-![](Images/5_5.png)
-
-O último gráfico, chamado de "Total average score based on family income" mostrou que alunos com uma baixa renda familiar não só apresentavam uma média total(soma das notas das
-três matérias/número de matérias) menor, além de variações muito maiores nas notas, quando comparados com alunos de renda familiar média ou maior
-
-Com base no estudo dos dados apresentados a ideia mais interessante seria aumentar 
+Com base nos dados acima, fica claro que o custo do curso não é um impeditivo de sua adesão
 
 
 
