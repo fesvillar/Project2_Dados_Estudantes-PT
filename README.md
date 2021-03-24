@@ -12,28 +12,26 @@ Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de 
 
 ![](Images/4.png)
 
-![](Images/5.png)
-
 Com os dados já tratados eu montei um dashboard querendo levantar uma análise sobre as notas dos alunos dessa escola, com base nos resultados encontrados eu pude 
 chegar a algumas concluõses:
 
-![](Images/5_1.png)
+![](Images/4_1.png)
 
 No gráfico "Students participation on Test preparation course" eu pude perceber que o número de alunos que não participavam do curso preparatório para as provas que a 
 escola oferecia era quase o dobro do número de alunos que participavam. 
 
-![](Images/5_2.png)
+![](Images/4_2.png)
 
 Com isso em mente fiz o gráfico "Math, reading and writing average score based on Test preparation course completion" para descobrir se o fato dos alunos não participarem
 do curso preparatório teria influência direta em suas notas e percebi que havia sim uma relação, mostrando que em média os estudantes que participavam do curso preparatório tinham uma nota maior em todas as três matérias.
 
-![](Images/5_3.png)
+![](Images/4_3.png)
 
 Fiz o gráfico "Test preparation course participation based on parental level of education" para saber se teria alguma relação entre o nível de escolaridade dos pais de cada
 aluno e a participação dele no curso preparatório, e por mais que alguns níveis da escolaridade dos pais apresentassem maior ou menor participação dos alunos, não achei
 tão pertinente montar uma estratégia ao redor disso
 
-![](Images/5_4.png)
+![](Images/4_4.png)
 
 Em "Students participation on test preparation course based on family income" pude perceber que não existia uma relação tão grande entre renda familiar e a taxa de adesão dos alunos ao curso preparatório.
 
