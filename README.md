@@ -1,12 +1,12 @@
-Neste projeto baixei um dataset do kaggle https://www.kaggle.com/spscientist/students-performance-in-exams com a performance de alunos de uma escola fictícia
+Neste projeto baixei um dataset do kaggle https://www.kaggle.com/spscientist/students-performance-in-exams com a performance de alunos de uma escola fictícia. A análise a seguir foi realizada supondo que o curso preparatório é pago.
 
 ![](Images/1.png)
 
-Após abrir a tabela no excel para ver com que tipo de dados eu estava lidando eu aproveitei e dei uma organizada 
+Após abrir a tabela no excel para ver com que tipo de dados eu estava lidando eu aproveitei e dei uma organizada.
 
 ![](Images/2.png)
 
-Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de alguns dados e a criação de algumas colunas pertinentes
+Depois de organizar os dados eu abri o arquivo no PowerBi e fiz o tratamento de alguns dados e a criação de algumas colunas pertinentes.
 
 ![](Images/3.png)
 
@@ -29,13 +29,14 @@ do curso preparatório teria influência direta em suas notas e percebi que havi
 
 Fiz o gráfico "Test preparation course participation based on parental level of education" para saber se teria alguma relação entre o nível de escolaridade dos pais de cada
 aluno e a participação dele no curso preparatório, e por mais que alguns níveis da escolaridade dos pais apresentassem maior ou menor participação dos alunos, não achei
-tão pertinente montar uma estratégia ao redor disso
+tão pertinente montar uma estratégia ao redor disso.
 
 ![](Images/4_4.png)
 
 Em "Students participation on test preparation course based on family income" pude perceber que não existia uma relação tão grande entre renda familiar e a taxa de adesão dos alunos ao curso preparatório.
 
-Com base nos dados acima, fica claro que o custo do curso não é um impeditivo de sua adesão
+Com base nos dados acima, fica claro que o custo do curso não é um impeditivo de sua adesão, uma vez que o percentual de pessoas categorizadas como "low income" é muito próximo do percentual de pessoas categorizadas como "standard income". Além disso também pude notar a partir dos primeiros gráficos que o curso entrega um bom resultado, o que não justificaria sua baixa adesão. Dessa forma é possível acreditar que o principal problema a ser resolvido é o baixo valor percebido do curso pelos alunos. Nosso objetivo, portanto, é agregar valor e relevância ao curso preparatório. Para isso, nosso insight é oferecer um período de trial gratuito a todos os estudantes.
+Nossa tese principal é que o periodo de trial terá um impacto direto na nota desses alunos, resultando em maior adesão.
 
 
 
