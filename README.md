@@ -23,7 +23,7 @@ escola oferecia era quase o dobro do número de alunos que participavam.
 ![](Images/4_2.png)
 
 Com isso em mente fiz o gráfico "Math, reading and writing average score based on Test preparation course completion" para descobrir se o fato dos alunos não participarem
-do curso preparatório teria influência direta em suas notas e percebi que havia sim uma relação, mostrando que em média os estudantes que participavam do curso preparatório tinham uma nota maior em todas as três matérias, o que significa que o curso, apesar da baixa adesão dos alunos no geral, demonstra boa qualidade de ensino.
+do curso preparatório teria influência direta em suas notas e percebi que havia sim uma relação, mostrando que em média os estudantes que participavam do curso preparatório tinham uma nota maior em todas as três matérias, o que significa que o curso, apesar da baixa adesão dos alunos no geral, demonstra bons resultados.
 
 ![](Images/4_3.png)
 
