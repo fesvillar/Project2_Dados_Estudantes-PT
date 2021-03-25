@@ -2,7 +2,7 @@ Neste projeto baixei um dataset do kaggle https://www.kaggle.com/spscientist/stu
 
 ![](Images/1.png)
 
-Após abrir a tabela no excel para ver com que tipo de dados eu estava lidando eu aproveitei e dei uma organizada.
+Após abrir a tabela no excel para ver com que tipo de dados eu estava lidando, aproveitei e dei uma organizada.
 
 ![](Images/2.png)
 
